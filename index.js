@@ -28,3 +28,10 @@ function destructivelyRemoveFirstKitten(name){
   return kittens
 
 }
+
+
+function appendKitten(name){
+
+  var new_array=(kitten)
+  return new_array.pop(name)
+}
