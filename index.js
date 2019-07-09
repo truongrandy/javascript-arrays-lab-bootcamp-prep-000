@@ -14,10 +14,10 @@ function destructivelyPrependKitten(name){
   return (kittens);
 
 }
-  
+
 function destructivelyRemoveLastKitten(name){
 
   return kitten.slice(-2)
 
-  
+
 }
